@@ -1,0 +1,13 @@
+name: jedi
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - python-graphviz
+  - notebook
