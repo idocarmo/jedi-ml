@@ -12,7 +12,7 @@ Você pode clonar esse repositório com o comando:
 ## Configurações do Projeto
 ### Dependências
 
-jedi-ml requerimentos de projeto:
+Requerimentos de projeto:
 ~~~~~~~~~~~~
   - python=3.8
   - numpy
